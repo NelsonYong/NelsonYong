@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am an incumbent freelance web developer
 
-<div style="dispaly:flex;width=100%">
+	<div style="dispaly: flex; width: 100%">
 			<a href="https://github.com/InhiblabCore/abstractv" target="view_window">
 				<img
 					src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark"
@@ -34,7 +34,7 @@ I am an incumbent freelance web developer
 			/></a>
 		</div>
 
-		<div style="dispaly:flex;width=100%">
+		<div style="dispaly: flex; width: 100%">
 			<a
 				href="https://github.com/NelsonYong/react-echarts-json"
 				target="view_window"
@@ -54,8 +54,8 @@ I am an incumbent freelance web developer
 					style="flex: 1; margin-right: 32px; zoom: 75%"
 			/></a>
 		</div>
-    
-		<div style="dispaly:flex;width=100%">
+
+		<div style="dispaly: flex; width: 100%">
 			<a href="https://github.com/NelsonYong/UnityGame" target="view_window">
 				<img
 					src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian"
