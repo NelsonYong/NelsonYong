@@ -16,21 +16,61 @@ Here are some ideas to get you started:
 -->
 I am an incumbent freelance web developer
 
-<div style="dispaly:flex;width="100%">
-                                 <a href="https://github.com/InhiblabCore/abstractv">    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" /></a>
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=vue3-hooks-plus&theme=vue-dark" alt="Readme Card"" style="flex:1;zoom:75%" />
-                                     </div>
+<div style="dispaly:flex;width=100%">
+			<a href="https://github.com/InhiblabCore/abstractv" target="view_window">
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark"
+					alt="Readme Card"
+					style="flex: 1; margin-right: 32px; zoom: 75%"
+			/></a>
+			<a
+				href="https://github.com/InhiblabCore/vue3-hooks-plus"
+				target="view_window"
+			>
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=vue3-hooks-plus&theme=vue-dark"
+					alt="Readme Card"
+					style="flex: 1; zoom: 75%"
+			/></a>
+		</div>
 
- <div style="dispaly:flex;width="100%">
-                                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=react-echarts-json&theme=react" alt="Readme Card"" style="flex:1;margin-right:32px;zoom:75%" />
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=vite-vue-ts-template&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
-                                     </div>                              
-
-<div style="dispaly:flex;width="100%">
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=WechatApplet&theme=apprentice" alt="Readme Card"" style="flex:1;zoom:75%" />
-                                     </div>
-
+		<div style="dispaly:flex;width=100%">
+			<a
+				href="https://github.com/NelsonYong/react-echarts-json"
+				target="view_window"
+			>
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=react-echarts-json&theme=react"
+					alt="Readme Card"
+					style="flex: 1; margin-right: 32px; zoom: 75%"
+			/></a>
+			<a
+				href="https://github.com/NelsonYong/vite-vue-ts-template"
+				target="view_window"
+			>
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=vite-vue-ts-template&theme=vue-dark"
+					alt="Readme Card"
+					style="flex: 1; margin-right: 32px; zoom: 75%"
+			/></a>
+		</div>
+    
+		<div style="dispaly:flex;width=100%">
+			<a href="https://github.com/NelsonYong/UnityGame" target="view_window">
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian"
+					alt="Readme Card"
+					style="flex: 1; margin-right: 32px; zoom: 75%"
+				/>
+			</a>
+			<a href="https://github.com/NelsonYong/WechatApplet" target="view_window">
+				<img
+					src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=WechatApplet&theme=apprentice"
+					alt="Readme Card"
+					style="flex: 1; zoom: 75%"
+				/>
+			</a>
+		</div>
 
 
 [![NelsonYong's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonYong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
