@@ -23,7 +23,7 @@ I am an incumbent freelance web developer
           alt="Readme Card"
           style=" zoom: 75%"
       /></a>
-      <span style="width:64px" />
+      <div style="width:64px" />
       <a
         href="https://github.com/InhiblabCore/vue3-hooks-plus"
         target="view_window"
