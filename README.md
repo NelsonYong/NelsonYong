@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 I am an incumbent freelance web developer
 
  <div style="dispaly: flex; width: 100%">
-      <a href="https://github.com/InhiblabCore/abstractv" target="view_window" style="display:block;flex: 1;margin-right: 32px;">
+      <a href="https://github.com/InhiblabCore/abstractv" target="view_window">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark"
           alt="Readme Card"
           style=" zoom: 75%"
       /></a>
+      <span style="width:64px" />
       <a
         href="https://github.com/InhiblabCore/vue3-hooks-plus"
         target="view_window"
