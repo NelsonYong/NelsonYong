@@ -21,9 +21,9 @@ I am an incumbent freelance web developer
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark"
           alt="Readme Card"
-          style=" zoom: 75%"
+          style="flex: 1; zoom: 75%"
       /></a>
-      <div style="width:64px" />
+ 
       <a
         href="https://github.com/InhiblabCore/vue3-hooks-plus"
         target="view_window"
