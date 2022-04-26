@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am an incumbent freelance web developer
 
 <div style="dispaly:flex;width="100%">
-                                     <img οnclick="window.open('https://github.com/InhiblabCore/abstractv')"  src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
+                                 <a href="https://github.com/InhiblabCore/abstractv">    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" /></a>
                                      <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=vue3-hooks-plus&theme=vue-dark" alt="Readme Card"" style="flex:1;zoom:75%" />
                                      </div>
 
