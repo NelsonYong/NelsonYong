@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 I am an incumbent freelance web developer
 
 <div style="dispaly:flex;width="100%">
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px" />
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=vue3-hooks-plus&theme=vue-dark" alt="Readme Card"" style="flex:1" />
+                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
+                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=vue3-hooks-plus&theme=vue-dark" alt="Readme Card"" style="flex:1;zoom:75%" />
                                      </div>
 
  <div style="dispaly:flex;width="100%">
-                                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=react-echarts-json&theme=react" alt="Readme Card"" style="flex:1;margin-right:32px" />
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=vite-vue-ts-template&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px" />
+                                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=react-echarts-json&theme=react" alt="Readme Card"" style="flex:1;margin-right:32px;zoom:75%" />
+                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=vite-vue-ts-template&theme=vue-dark" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
                                      </div>                              
 
 <div style="dispaly:flex;width="100%">
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian" alt="Readme Card" " style="flex:1;margin-right:32px" />
-                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=WechatApplet&theme=apprentice" alt="Readme Card"" style="flex:1" />
+                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian" alt="Readme Card" " style="flex:1;margin-right:32px;zoom:75%" />
+                                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=WechatApplet&theme=apprentice" alt="Readme Card"" style="flex:1;zoom:75%" />
                                      </div>
 
 
@@ -38,7 +38,7 @@ I am an incumbent freelance web developer
 
 
  <div style="dispaly:flex;width="100%">
-                                    <img src="https://github-readme-stats.vercel.app/api?username=NelsonYong&count_private=true&show_icons=true&theme=react&show_owner=true" alt="Readme Card"" style="flex:1;margin-right:32px" />
+                                    <img src="https://github-readme-stats.vercel.app/api?username=NelsonYong&count_private=true&show_icons=true&theme=react&show_owner=true" alt="Readme Card"" style="flex:1;margin-right:32px;zoom:85%" />
                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonYong&layout=compact" alt="Readme Card" " style="flex:1;margin-right:32px" />
                                      </div>                              
 
