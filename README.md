@@ -65,9 +65,9 @@ I am an incumbent freelance web developer
           style="flex: 1; margin-right: 32px; zoom: 75%"
         />
       </a>
-      <a href="https://github.com/NelsonYong/WechatApplet" target="view_window">
+      <a href="https://github.com/NelsonYong/metav" target="view_window">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=WechatApplet&theme=apprentice"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=metav&theme=apprentice"
           alt="Readme Card"
           style="flex: 1; zoom: 75%"
         />
