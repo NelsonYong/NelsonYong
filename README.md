@@ -61,7 +61,7 @@ I am an incumbent freelance web developer
       <a href="https://github.com/NelsonYong/data-design" target="view_window">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=data-design&theme=prussian"
-          alt="Readme Card"
+          alt="Readme Card1"
           style="flex: 1; margin-right: 32px; zoom: 75%"
         />
       </a>
