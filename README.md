@@ -58,9 +58,9 @@ I am an incumbent freelance web developer
 
 
 <div style="dispaly: flex; width: 100%">
-      <a href="https://github.com/NelsonYong/UnityGame" target="view_window">
+      <a href="https://github.com/NelsonYong/data-design" target="view_window">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=UnityGame&theme=prussian"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonYong&repo=data-design&theme=prussian"
           alt="Readme Card"
           style="flex: 1; margin-right: 32px; zoom: 75%"
         />
