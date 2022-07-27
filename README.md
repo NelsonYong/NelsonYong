@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am an incumbent freelance web developer
 
- <div style="dispaly: flex; width: 100%">
+<!--  <div style="dispaly: flex; width: 100%">
       <a href="https://github.com/InhiblabCore/abstractv" target="view_window">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=InhiblabCore&repo=abstractv&theme=vue-dark"
@@ -32,9 +32,9 @@ I am an incumbent freelance web developer
           alt="Readme Card"
           style="flex: 1; zoom: 75%"
       /></a>
-    </div>
+    </div> -->
 
-
+<!-- 
  <div style="dispaly: flex; width: 100%">
       <a
         href="https://github.com/NelsonYong/react-echarts-json"
@@ -54,9 +54,9 @@ I am an incumbent freelance web developer
           alt="Readme Card"
           style="flex: 1; margin-right: 32px; zoom: 75%"
       /></a>
-    </div>
+    </div> -->
 
-
+<!-- 
 <div style="dispaly: flex; width: 100%">
       <a href="https://github.com/NelsonYong/data-design" target="view_window">
         <img
@@ -72,7 +72,7 @@ I am an incumbent freelance web developer
           style="flex: 1; zoom: 75%"
         />
       </a>
-    </div>
+    </div> -->
 
 
 
@@ -80,8 +80,8 @@ I am an incumbent freelance web developer
 
 
 
- <div style="dispaly:flex;width="100%">
+<!--  <div style="dispaly:flex;width="100%">
                                     <img src="https://github-readme-stats.vercel.app/api?username=NelsonYong&count_private=true&show_icons=true&theme=react&show_owner=true" alt="Readme Card"" style="flex:1;margin-right:32px;zoom:85%" />
                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonYong&layout=compact" alt="Readme Card" " style="flex:1;margin-right:32px" />
-                                     </div>                              
+                                     </div>                               -->
 
