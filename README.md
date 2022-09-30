@@ -76,12 +76,16 @@ I am an incumbent freelance web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NelsonYong&label=Profile%20views&color=0e75b6&style=flat" alt="sheepndw" /> </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vuejs/docs/a77f9e210eefce9eedf6326d712f93eabf7d1acd/src/public/logo.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vitejs/vite/364aae13f0826169e8b1c5db41ac6b5bb2756958/docs/images/vite.svg" alt="vite" width="40" height="40"/> <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/></a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> </p>
+
+
 [![NelsonYong's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonYong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
- <div style="dispaly:flex;width="100%">
+<!--  <div style="dispaly:flex;width="100%">
                                     <img src="https://github-readme-stats.vercel.app/api?username=NelsonYong&count_private=true&show_icons=true&theme=react&show_owner=true" alt="Readme Card"" style="flex:1;margin-right:32px;zoom:85%" />
                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonYong&layout=compact" alt="Readme Card" " style="flex:1;margin-right:32px" />
-                                     </div>                              
+                                     </div>                               -->
 
