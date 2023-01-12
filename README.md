@@ -14,6 +14,12 @@ My name is YongGit. Like front-end open source
        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vuejs/docs/a77f9e210eefce9eedf6326d712f93eabf7d1acd/src/public/logo.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vitejs/vite/364aae13f0826169e8b1c5db41ac6b5bb2756958/docs/images/vite.svg" alt="vite" width="40" height="40"/> </p>
 
+       
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fengxinhhh/count.svg" />
+</p>
+
 
 <!-- [![NelsonYong's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonYong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
