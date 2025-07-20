@@ -11,13 +11,7 @@
 <!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vuejs/docs/a77f9e210eefce9eedf6326d712f93eabf7d1acd/src/public/logo.svg" alt="vuejs" width="40" height="40"/> </a> -->
 
-
-
-
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/NelsonYong/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=NelsonYong&abbreviated=true)
 
 
 <!-- [![NelsonYong's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonYong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
