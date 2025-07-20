@@ -12,7 +12,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vuejs/docs/a77f9e210eefce9eedf6326d712f93eabf7d1acd/src/public/logo.svg" alt="vuejs" width="40" height="40"/> </a> -->
 
 <p align="center"> 
-   <a href="https://komarev.com/ghpvc/?username=NelsonYong&abbreviated=true" target="_blank" rel="noreferrer">
+   <img src="https://komarev.com/ghpvc/?username=NelsonYong&abbreviated=true" target="_blank" rel="noreferrer">
 </p>
 
 
